@@ -1,0 +1,6 @@
+D:\workspace\Learning\Supermarket\Supermarket\bin\Debug\Supermarket.exe.config
+D:\workspace\Learning\Supermarket\Supermarket\bin\Debug\Supermarket.exe
+D:\workspace\Learning\Supermarket\Supermarket\bin\Debug\Supermarket.pdb
+D:\workspace\Learning\Supermarket\Supermarket\obj\Debug\Supermarket.exe
+D:\workspace\Learning\Supermarket\Supermarket\obj\Debug\Supermarket.pdb
+D:\workspace\Learning\Supermarket\Supermarket\obj\Debug\Supermarket.csprojResolveAssemblyReference.cache

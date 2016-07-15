@@ -1,0 +1,9 @@
+D:\workspace\Learning\Supermarket\SupermarketTest\bin\Debug\SupermarketTest.dll
+D:\workspace\Learning\Supermarket\SupermarketTest\bin\Debug\SupermarketTest.pdb
+D:\workspace\Learning\Supermarket\SupermarketTest\bin\Debug\Supermarket.exe
+D:\workspace\Learning\Supermarket\SupermarketTest\bin\Debug\Supermarket.pdb
+D:\workspace\Learning\Supermarket\SupermarketTest\obj\Debug\SupermarketTest.csprojResolveAssemblyReference.cache
+D:\workspace\Learning\Supermarket\SupermarketTest\obj\Debug\SupermarketTest.dll
+D:\workspace\Learning\Supermarket\SupermarketTest\obj\Debug\SupermarketTest.pdb
+D:\workspace\Learning\Supermarket\SupermarketTest\bin\Debug\nunit.framework.dll
+D:\workspace\Learning\Supermarket\SupermarketTest\bin\Debug\nunit.framework.xml
